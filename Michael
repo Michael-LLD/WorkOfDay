@@ -7,5 +7,15 @@
 1 权限添加课程管理员功能
 2 bugfix
 3 开发课程详情优化功能-标签
-4 Monitor-Service异常问题
+4 Monitor-Service异常问题  
++5 需求price和discountPrice，web端和移动端希望展示不一样的期次介绍样式
++6 开会
+2017-09-28
+1 课程功能添加
+2 bugfix
+3 开会
+
+
+4 Monitor-Service异常问题  OK
++5 需求price和discountPrice，web端和移动端希望展示不一样的期次介绍样式
 
